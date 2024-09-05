@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "json-server": "^1.0.0-beta.2",
+    "jsonserver": "^0.1.6"
+  },
+  "name": "fetchapi-and-json",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json --port 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
